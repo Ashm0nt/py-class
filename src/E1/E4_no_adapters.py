@@ -1,8 +1,8 @@
 #Ejercicio 4 Eliminar adpatadores de secuencias
 
 #Rutas de los archivos 
-input_file = "../data/4_input_adapters.txt"
-output_file = "../results/4_output_adapters.txt"
+input_file = "../../data/E1/4_input_adapters.txt"
+output_file = "../../results/E1/4_output_no_adapters.txt"
 
 #Abre el archivo de entrada y salida
 with open(input_file, "r") as infile, open(output_file, "w") as outfile:
