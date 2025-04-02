@@ -1,4 +1,9 @@
-#Ejercicio 6 Contar lienas en un archivo FASTA
+"""
+Ejercicio 6: Contar líneas en un archivo FASTA.
+
+Este script lee un archivo FASTA y cuenta el número de secuencias presentes en él.
+Las secuencias en un archivo FASTA están identificadas por líneas que comienzan con '>'.
+"""
 
 # Ruta del archivo de entrada
 ## Proviene del output del ejercicio 5
