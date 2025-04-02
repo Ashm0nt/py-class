@@ -1,4 +1,9 @@
-#Ejercicio 5 Convertir un archivo TSV a FASTA
+"""
+Ejercicio 5: Convertir un archivo TSV a FASTA.
+
+Este script lee un archivo TSV (valores separados por tabulaciones) que contiene
+IDs y secuencias de ADN, y lo convierte a formato FASTA.
+"""
 
 #Rutas de los archivos
 input_file = "../../data/E1/5_dna_sequences.txt"
