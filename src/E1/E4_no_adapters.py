@@ -1,4 +1,10 @@
-#Ejercicio 4 Eliminar adpatadores de secuencias
+"""
+Ejercicio 4: Eliminar adaptadores de secuencias.
+
+Este script lee un archivo de secuencias de ADN con adaptadores,
+elimina los primeros 14 nucleótidos (asumiendo que son los adaptadores)
+y escribe las secuencias limpias en un archivo de salida.
+"""
 
 #Rutas de los archivos 
 input_file = "../../data/E1/4_input_adapters.txt"
